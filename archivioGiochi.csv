@@ -48,7 +48,7 @@ g0046,Jenga,FALSE,Casa,10,1;2,,,,Jenga Casa  ,https://www.dl.dropboxusercontent.
 g0047,Scotland Yard,FALSE,Casa,30,3;6,,,,Scotland Yard Casa  ,https://www.dl.dropboxusercontent.com/scl/fi/yp0anikocug02tc6b1yfo/scotlandYard.jpeg?rlkey=5vc4zamh6hl7myxmrvlefelaa&dl=0
 g0048,Kaleidos,FALSE,Casa,20,2+,,,,Kaleidos Casa  ,https://www.dl.dropboxusercontent.com/scl/fi/rzpic59mzd5g3sna4a7p2/kaleidos.jpg?rlkey=04bjnr1rdi5qmg9onq9av58pd&dl=0
 g0049,Cranium,FALSE,Casa,50,4+,,,,Cranium Casa  ,https://www.dl.dropboxusercontent.com/scl/fi/fvvgl0do39ig7hv5axmz9/cranium.png?rlkey=orwfctk6x5g7fu8wglgni195t&dl=0
-g0050,Cortex+,FALSE,Casa,15,2;6,,,,Cortex+ Casa  ,https://www.dl.dropboxusercontent.com/scl/fi/ideh9y1wpywqh7igjamvs/cortex.jpeg?rlkey=ytksjnbm3m6g5az2l0a06inre&dl=0
+g0050,Cortex+,FALSE,Casa,25,2;6,,,,Cortex+ Casa  ,https://www.dl.dropboxusercontent.com/scl/fi/ideh9y1wpywqh7igjamvs/cortex.jpeg?rlkey=ytksjnbm3m6g5az2l0a06inre&dl=0
 g0051,I Soliti Sospetti,FALSE,Casa,20,3;18,,,,I Soliti Sospetti Casa  ,https://www.dl.dropboxusercontent.com/scl/fi/61n1mvsjj35vi3wqtbqst/solitiSospetti.png?rlkey=ech74o0j36i55gk6cj664efhz&dl=0
 g0052,Metereopatici,FALSE,Casa,50,2;4,,,,Metereopatici Casa  ,https://www.dl.dropboxusercontent.com/scl/fi/hz9a3h3gfx672si8em4et/metereopatici.jpg?rlkey=7dbji3iale6hb0xbf0e6oauwk&dl=0
 g0053,Lego - City Alarm,FALSE,Casa,15,2;4,,,,Lego - City Alarm Casa  ,https://www.dl.dropboxusercontent.com/scl/fi/pewmm8tknc3dqz5i43ort/cityAlarm.jpeg?rlkey=u8bjr645ev132hgr2nbmydhxd&dl=0
@@ -76,7 +76,7 @@ g0074,Parola per Parola,FALSE,Casa,20,2;12,,,parole,Parola per Parola Casa  paro
 g0075,Couleur de Paris,FALSE,Casa,45,2;4,,,colori,Couleur de Paris Casa  colori,https://www.dl.dropboxusercontent.com/scl/fi/g6cm5yemys5b1ylgi5w7h/coleurDeParis.jpeg?rlkey=73ffke1rfyvzkbnehl9szoqet&dl=0
 g0076,È Tutta un'Altra Storia,FALSE,Casa,60,2;4,,,istruttivi,È Tutta un'Altra Storia Casa  istruttivi,https://www.dl.dropboxusercontent.com/scl/fi/exdua8tyf3hfpugqbp8hl/tuttaAltraStoria.jpeg?rlkey=7t2o99o7k6kwhu75leja0igz8&dl=0
 g0077,28,FALSE,Casa,45,2;4,,,tram lisbona,28 Casa  tram lisbona,https://www.dl.dropboxusercontent.com/scl/fi/wvw3dv6tz2cy5s0ctooia/28.png?rlkey=58391fxze6tob5ohgurgzogo7&dl=0
-g0078,Azul - Maître Chocolatier,FALSE,Casa,45,2;4,,,,Azul - Maître Chocolatier Casa  ,https://www.dl.dropboxusercontent.com/scl/fi/0bb7xne3ptuomh468xmso/azulCholatier.jpeg?rlkey=4z2g0ht1yhbdhx5dlcr18ysjh&dl=0
+g0078,Azul - Maître Chocolatier,FALSE,Casa,45,2;4,,,cioccolato mattonelle piastrelle,Azul - Maître Chocolatier Casa  cioccolato mattonelle piastrelle,https://www.dl.dropboxusercontent.com/scl/fi/0bb7xne3ptuomh468xmso/azulCholatier.jpeg?rlkey=4z2g0ht1yhbdhx5dlcr18ysjh&dl=0
 g0079,insektbanko - bug bingo,FALSE,Casa,25,2;10,,,tiger,insektbanko - bug bingo Casa  tiger,https://www.dl.dropboxusercontent.com/scl/fi/rb5sq39n2rbecfzx857i4/bugBingo.png?rlkey=phj584nptw0lbtrcp2n35zw7h&dl=0
 g0080,Paise - Il Gioco dei Trulli,FALSE,Casa,60,2;4,,,monopoli,Paise - Il Gioco dei Trulli Casa  monopoli,https://www.dl.dropboxusercontent.com/scl/fi/qinft3d91d5g0ewmde0fn/paiseIlGiocoDeiTrulli.png?rlkey=sukcxjks30ihkikr0k0bhikar&dl=0
 g0081,Musefanger - Mouse catcher,FALSE,Casa,10,2;6,5,,Acchiappa il topo tiger,Musefanger - Mouse catcher Casa  Acchiappa il topo tiger,https://www.dl.dropboxusercontent.com/scl/fi/55fmh30y6371fo29shh9z/acchiappaTopo.png?rlkey=vo9dthvtwweb0tgzqmmp4irgx&dl=0
@@ -118,3 +118,9 @@ g0116,Exit - Il laboratorio segreto,FALSE,Casa,90,1;6,12,,,Exit - Il laboratorio
 g0117,Mysterium,FALSE,Casa,42,2;7,10,,misterium medium fantasma,Mysterium Casa  misterium medium fantasma,https://www.dl.dropboxusercontent.com/scl/fi/gqntbpsieqvexigf8sfi1/mysterium.jpg?rlkey=0jxh4kcwphu3y9gsvv178y81y&dl=0
 g0118,The Nightmare Before Christmas,FALSE,Casa,45,2;6,10,,take over the holidays disney,The Nightmare Before Christmas Casa  take over the holidays disney,https://www.dl.dropboxusercontent.com/scl/fi/8e0q50wm8l2nwhinihstg/nightmareBeforeChristmas.jpeg?rlkey=xp59474ud6zujnyjvm5hm4svv&dl=0
 g0119,13 Indizi,FALSE,Casa,30,2;6,8,Puzzle game,tredici,13 Indizi Casa Puzzle game tredici,https://www.dl.dropboxusercontent.com/scl/fi/v36qxiv28gq8912muzhyg/13indizi.jpg?rlkey=p9ghacrq3ymy9vhm3yn1cmrf7&dl=0
+g0120,find ordet - find the word,FALSE,Genitori Vr,20,2;6,6,,tiger trova la parola,find ordet - find the word Genitori Vr  tiger trova la parola,https://www.dl.dropboxusercontent.com/scl/fi/ovw5gih6dxhglgidjh6dl/findOrdet.jpeg?rlkey=8a4a4vxaetxclbyymimeu3wyn&dl=0
+g0121,Dobble,FALSE,Genitori Vr,10,2;8,6,,immagini matematica,Dobble Genitori Vr  immagini matematica,https://www.dl.dropboxusercontent.com/scl/fi/uzv17tyzh206rjqhtoqn4/Dobble.png?rlkey=15rdvj74v08zrz84y78tetpeo&dl=0
+g0122,Venice connection,FALSE,Genitori Vr,5,2,8,,venezia canale fiume,Venice connection Genitori Vr  venezia canale fiume,https://www.dl.dropboxusercontent.com/scl/fi/v8e62awjddppncjqwzlov/VeniceConnection.jpg?rlkey=a5gkyxut270cd2ywnk15vhm6g&dl=0
+g0123,Patchwork,FALSE,Genitori Vr,30,2,8,,Puzzle,Patchwork Genitori Vr  Puzzle,https://www.dl.dropboxusercontent.com/scl/fi/2dx6bufromtek4l5ipclm/patchwork.jpg?rlkey=x47ww3no6s8e9t023081feivz&dl=0
+g0124,Slapzi,FALSE,Genitori Vr,15,2;8,6,,,Slapzi Genitori Vr  ,https://www.dl.dropboxusercontent.com/scl/fi/3nvyq7okf1jbcje1tqjef/slapzi.jpeg?rlkey=ixpb6xrx13qzr0i792tqvydba&dl=0
+g0125,Gobble,FALSE,Genitori Vr,10,2,3,,tris,Gobble Genitori Vr  tris,https://www.dl.dropboxusercontent.com/scl/fi/q7upqawyrrbjz26gkofn6/gobble.png?rlkey=00e944pgtips8de7zsdh54y6i&dl=0
