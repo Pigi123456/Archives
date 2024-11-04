@@ -1,0 +1,10 @@
+{
+  "x00080005": {
+    "name": "Specific Character Set",
+    "description": "Defines the character set used in the DICOM file."
+  },
+  "x00100010": {
+    "name": "Patient's Name",
+    "description": "The name of the patient."
+  }
+}
