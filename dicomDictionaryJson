@@ -1,10 +1,107 @@
 {
+  "x00020010": {
+    "name": "Transfer Syntax UID",
+    "vr": "UI",
+    "description": "UID of the transfer syntax used to encode the data elements."
+  },
   "x00080005": {
     "name": "Specific Character Set",
-    "description": "Defines the character set used in the DICOM file."
+    "vr": "CS",
+    "description": "Character set used for encoding textual data."
+  },
+  "x00080020": {
+    "name": "Study Date",
+    "vr": "DA",
+    "description": "The date the study started."
+  },
+  "x00080030": {
+    "name": "Study Time",
+    "vr": "TM",
+    "description": "The time the study started."
+  },
+  "x00080050": {
+    "name": "Accession Number",
+    "vr": "SH",
+    "description": "A unique identifier for the study as assigned by the healthcare provider."
   },
   "x00100010": {
     "name": "Patient's Name",
+    "vr": "PN",
     "description": "The name of the patient."
+  },
+  "x00100020": {
+    "name": "Patient ID",
+    "vr": "LO",
+    "description": "An identifier for the patient."
+  },
+  "x00100030": {
+    "name": "Patient's Birth Date",
+    "vr": "DA",
+    "description": "The birth date of the patient."
+  },
+  "x00100040": {
+    "name": "Patient's Sex",
+    "vr": "CS",
+    "description": "The sex of the patient."
+  },
+  "x0020000D": {
+    "name": "Study Instance UID",
+    "vr": "UI",
+    "description": "A unique identifier for the study."
+  },
+  "x0020000E": {
+    "name": "Series Instance UID",
+    "vr": "UI",
+    "description": "A unique identifier for the series."
+  },
+  "x00200010": {
+    "name": "Study ID",
+    "vr": "SH",
+    "description": "A user-defined identifier for the study."
+  },
+  "x00200011": {
+    "name": "Series Number",
+    "vr": "IS",
+    "description": "A number that identifies this series within the study."
+  },
+  "x00200013": {
+    "name": "Instance Number",
+    "vr": "IS",
+    "description": "A number that identifies this instance within the series."
+  },
+  "x00280010": {
+    "name": "Rows",
+    "vr": "US",
+    "description": "Number of rows in the image."
+  },
+  "x00280011": {
+    "name": "Columns",
+    "vr": "US",
+    "description": "Number of columns in the image."
+  },
+  "x00280100": {
+    "name": "Bits Allocated",
+    "vr": "US",
+    "description": "Number of bits allocated for each pixel sample."
+  },
+  "x00280101": {
+    "name": "Bits Stored",
+    "vr": "US",
+    "description": "Number of bits stored for each pixel sample."
+  },
+  "x00280102": {
+    "name": "High Bit",
+    "vr": "US",
+    "description": "Most significant bit for each pixel sample."
+  },
+  "x00280103": {
+    "name": "Pixel Representation",
+    "vr": "US",
+    "description": "Data representation of the pixel samples."
+  },
+  "x7FE00010": {
+    "name": "Pixel Data",
+    "vr": "OW",
+    "description": "Pixel data for the image."
   }
 }
