@@ -125,7 +125,7 @@
     "description": ""
   },
   "x00041504": {
-    "name": "MRDR Directory Record Offset	Retired",
+    "name": "MRDR Directory Record Offset Retired",
     "vr": "UL",
     "description": ""
   },
@@ -150,12 +150,12 @@
     "description": ""
   },
   "x00041600": {
-    "name": "Number of References	Retired",
+    "name": "Number of References Retired",
     "vr": "UL",
     "description": ""
   },
   "x00080001": {
-    "name": "Length to End	Retired",
+    "name": "Length to End Retired",
     "vr": "UL",
     "description": ""
   },
@@ -175,7 +175,7 @@
     "description": ""
   },
   "x00080010": {
-    "name": "Recognition Code	Retired",
+    "name": "Recognition Code Retired",
     "vr": "SH",
     "description": ""
   },
@@ -240,12 +240,12 @@
     "description": ""
   },
   "x00080024": {
-    "name": "Overlay Date	Retired",
+    "name": "Overlay Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x00080025": {
-    "name": "Curve Date	Retired",
+    "name": "Curve Date Retired",
     "vr": "DA",
     "description": ""
   },
@@ -275,27 +275,27 @@
     "description": ""
   },
   "x00080034": {
-    "name": "Overlay Time	Retired",
+    "name": "Overlay Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x00080035": {
-    "name": "Curve Time	Retired",
+    "name": "Curve Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x00080040": {
-    "name": "Data Set Type	Retired",
+    "name": "Data Set Type Retired",
     "vr": "US",
     "description": ""
   },
   "x00080041": {
-    "name": "Data Set Subtype	Retired",
+    "name": "Data Set Subtype Retired",
     "vr": "LO",
     "description": ""
   },
   "x00080042": {
-    "name": "Nuclear Medicine Series Type	Retired",
+    "name": "Nuclear Medicine Series Type Retired",
     "vr": "CS",
     "description": ""
   },
@@ -590,7 +590,7 @@
     "description": ""
   },
   "x00081000": {
-    "name": "Network ID	Retired",
+    "name": "Network ID Retired",
     "vr": "AE",
     "description": ""
   },
@@ -680,7 +680,7 @@
     "description": ""
   },
   "x00081100": {
-    "name": "Referenced Results Sequence	Retired",
+    "name": "Referenced Results Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -710,7 +710,7 @@
     "description": ""
   },
   "x00081130": {
-    "name": "Referenced Overlay Sequence	Retired",
+    "name": "Referenced Overlay Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -730,7 +730,7 @@
     "description": ""
   },
   "x00081145": {
-    "name": "Referenced Curve Sequence	Retired",
+    "name": "Referenced Curve Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -835,7 +835,7 @@
     "description": ""
   },
   "x00082110": {
-    "name": "Lossy Image Compression (Retired)	Retired",
+    "name": "Lossy Image Compression (Retired) Retired",
     "vr": "CS",
     "description": ""
   },
@@ -925,17 +925,17 @@
     "description": ""
   },
   "x00082200": {
-    "name": "Transducer Position	Retired",
+    "name": "Transducer Position Retired",
     "vr": "CS",
     "description": ""
   },
   "x00082204": {
-    "name": "Transducer Orientation	Retired",
+    "name": "Transducer Orientation Retired",
     "vr": "CS",
     "description": ""
   },
   "x00082208": {
-    "name": "Anatomic Structure	Retired",
+    "name": "Anatomic Structure Retired",
     "vr": "CS",
     "description": ""
   },
@@ -965,67 +965,67 @@
     "description": ""
   },
   "x00082240": {
-    "name": "Transducer Position Sequence	Retired",
+    "name": "Transducer Position Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00082242": {
-    "name": "Transducer Position Modifier Sequence	Retired",
+    "name": "Transducer Position Modifier Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00082244": {
-    "name": "Transducer Orientation Sequence	Retired",
+    "name": "Transducer Orientation Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00082246": {
-    "name": "Transducer Orientation Modifier Sequence	Retired",
+    "name": "Transducer Orientation Modifier Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00082251": {
-    "name": "Anatomic Structure Space Or Region Code Sequence (Trial)	Retired",
+    "name": "Anatomic Structure Space Or Region Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00082253": {
-    "name": "Anatomic Portal Of Entrance Code Sequence (Trial)	Retired",
+    "name": "Anatomic Portal Of Entrance Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00082255": {
-    "name": "Anatomic Approach Direction Code Sequence (Trial)	Retired",
+    "name": "Anatomic Approach Direction Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00082256": {
-    "name": "Anatomic Perspective Description (Trial)	Retired",
+    "name": "Anatomic Perspective Description (Trial) Retired",
     "vr": "ST",
     "description": ""
   },
   "x00082257": {
-    "name": "Anatomic Perspective Code Sequence (Trial)	Retired",
+    "name": "Anatomic Perspective Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00082258": {
-    "name": "Anatomic Location Of Examining Instrument Description (Trial)	Retired",
+    "name": "Anatomic Location Of Examining Instrument Description (Trial) Retired",
     "vr": "ST",
     "description": ""
   },
   "x00082259": {
-    "name": "Anatomic Location Of Examining Instrument Code Sequence (Trial)	Retired",
+    "name": "Anatomic Location Of Examining Instrument Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x0008225A": {
-    "name": "Anatomic Structure Space Or Region Modifier Code Sequence (Trial)	Retired",
+    "name": "Anatomic Structure Space Or Region Modifier Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x0008225C": {
-    "name": "On Axis Background Anatomic Structure Code Sequence (Trial)	Retired",
+    "name": "On Axis Background Anatomic Structure Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -1050,7 +1050,7 @@
     "description": ""
   },
   "x00084000": {
-    "name": "Identifying Comments	Retired",
+    "name": "Identifying Comments Retired",
     "vr": "LT",
     "description": ""
   },
@@ -1320,7 +1320,7 @@
     "description": ""
   },
   "x00101050": {
-    "name": "Insurance Plan Identification	Retired",
+    "name": "Insurance Plan Identification Retired",
     "vr": "LO",
     "description": ""
   },
@@ -1585,12 +1585,12 @@
     "description": ""
   },
   "x00140023": {
-    "name": "CAD File Format	Retired",
+    "name": "CAD File Format Retired",
     "vr": "ST",
     "description": ""
   },
   "x00140024": {
-    "name": "Component Reference System	Retired",
+    "name": "Component Reference System Retired",
     "vr": "ST",
     "description": ""
   },
@@ -1630,7 +1630,7 @@
     "description": ""
   },
   "x00140045": {
-    "name": "Material Properties File Format (Retired)	Retired",
+    "name": "Material Properties File Format (Retired) Retired",
     "vr": "ST",
     "description": ""
   },
@@ -2625,7 +2625,7 @@
     "description": ""
   },
   "x00180030": {
-    "name": "Radionuclide	Retired",
+    "name": "Radionuclide Retired",
     "vr": "LO",
     "description": ""
   },
@@ -2635,12 +2635,12 @@
     "description": ""
   },
   "x00180032": {
-    "name": "Energy Window Centerline	Retired",
+    "name": "Energy Window Centerline Retired",
     "vr": "DS",
     "description": ""
   },
   "x00180033": {
-    "name": "Energy Window Total Width	Retired",
+    "name": "Energy Window Total Width Retired",
     "vr": "DS",
     "description": ""
   },
@@ -2660,7 +2660,7 @@
     "description": ""
   },
   "x00180037": {
-    "name": "Therapy Type	Retired",
+    "name": "Therapy Type Retired",
     "vr": "CS",
     "description": ""
   },
@@ -2670,7 +2670,7 @@
     "description": ""
   },
   "x00180039": {
-    "name": "Therapy Description	Retired",
+    "name": "Therapy Description Retired",
     "vr": "CS",
     "description": ""
   },
@@ -2855,7 +2855,7 @@
     "description": ""
   },
   "x00181011": {
-    "name": "Hardcopy Creation Device ID	Retired",
+    "name": "Hardcopy Creation Device ID Retired",
     "vr": "LO",
     "description": ""
   },
@@ -2875,7 +2875,7 @@
     "description": ""
   },
   "x00181017": {
-    "name": "Hardcopy Device Manufacturer	Retired",
+    "name": "Hardcopy Device Manufacturer Retired",
     "vr": "LO",
     "description": ""
   },
@@ -2890,12 +2890,12 @@
     "description": ""
   },
   "x0018101A": {
-    "name": "Hardcopy Device Software Version	Retired",
+    "name": "Hardcopy Device Software Version Retired",
     "vr": "LO",
     "description": ""
   },
   "x0018101B": {
-    "name": "Hardcopy Device Manufacturer's Model Name	Retired",
+    "name": "Hardcopy Device Manufacturer's Model Name Retired",
     "vr": "LO",
     "description": ""
   },
@@ -3215,7 +3215,7 @@
     "description": ""
   },
   "x00181141": {
-    "name": "Angular Position	Retired",
+    "name": "Angular Position Retired",
     "vr": "DS",
     "description": ""
   },
@@ -3240,7 +3240,7 @@
     "description": ""
   },
   "x00181146": {
-    "name": "Rotation Offset	Retired",
+    "name": "Rotation Offset Retired",
     "vr": "DS",
     "description": ""
   },
@@ -3400,7 +3400,7 @@
     "description": ""
   },
   "x00181240": {
-    "name": "Upper/Lower Pixel Values	Retired",
+    "name": "Upper/Lower Pixel Values Retired",
     "vr": "IS",
     "description": ""
   },
@@ -3840,7 +3840,7 @@
     "description": ""
   },
   "x00184000": {
-    "name": "Acquisition Comments	Retired",
+    "name": "Acquisition Comments Retired",
     "vr": "LT",
     "description": ""
   },
@@ -3865,7 +3865,7 @@
     "description": ""
   },
   "x00185021": {
-    "name": "Postprocessing Function	Retired",
+    "name": "Postprocessing Function Retired",
     "vr": "LO",
     "description": ""
   },
@@ -3900,12 +3900,12 @@
     "description": ""
   },
   "x00185030": {
-    "name": "Dynamic Range	Retired",
+    "name": "Dynamic Range Retired",
     "vr": "DS",
     "description": ""
   },
   "x00185040": {
-    "name": "Total Gain	Retired",
+    "name": "Total Gain Retired",
     "vr": "DS",
     "description": ""
   },
@@ -3930,12 +3930,12 @@
     "description": ""
   },
   "x00185210": {
-    "name": "Image Transformation Matrix	Retired",
+    "name": "Image Transformation Matrix Retired",
     "vr": "DS",
     "description": ""
   },
   "x00185212": {
-    "name": "Image Translation Vector	Retired",
+    "name": "Image Translation Vector Retired",
     "vr": "DS",
     "description": ""
   },
@@ -4050,7 +4050,7 @@
     "description": ""
   },
   "x00186038": {
-    "name": "Doppler Sample Volume X Position (Retired)	Retired",
+    "name": "Doppler Sample Volume X Position (Retired) Retired",
     "vr": "UL",
     "description": ""
   },
@@ -4060,7 +4060,7 @@
     "description": ""
   },
   "x0018603A": {
-    "name": "Doppler Sample Volume Y Position (Retired)	Retired",
+    "name": "Doppler Sample Volume Y Position (Retired) Retired",
     "vr": "UL",
     "description": ""
   },
@@ -4070,7 +4070,7 @@
     "description": ""
   },
   "x0018603C": {
-    "name": "TM-Line Position X0 (Retired)	Retired",
+    "name": "TM-Line Position X0 (Retired) Retired",
     "vr": "UL",
     "description": ""
   },
@@ -4080,7 +4080,7 @@
     "description": ""
   },
   "x0018603E": {
-    "name": "TM-Line Position Y0 (Retired)	Retired",
+    "name": "TM-Line Position Y0 (Retired) Retired",
     "vr": "UL",
     "description": ""
   },
@@ -4090,7 +4090,7 @@
     "description": ""
   },
   "x00186040": {
-    "name": "TM-Line Position X1 (Retired)	Retired",
+    "name": "TM-Line Position X1 (Retired) Retired",
     "vr": "UL",
     "description": ""
   },
@@ -4100,7 +4100,7 @@
     "description": ""
   },
   "x00186042": {
-    "name": "TM-Line Position Y1 (Retired)	Retired",
+    "name": "TM-Line Position Y1 (Retired) Retired",
     "vr": "UL",
     "description": ""
   },
@@ -4785,7 +4785,7 @@
     "description": ""
   },
   "x00189096": {
-    "name": "Parallel Reduction Factor In-plane (Retired)	Retired",
+    "name": "Parallel Reduction Factor In-plane (Retired) Retired",
     "vr": "FD",
     "description": ""
   },
@@ -4900,7 +4900,7 @@
     "description": ""
   },
   "x00189166": {
-    "name": "Bulk Motion Status	Retired",
+    "name": "Bulk Motion Status Retired",
     "vr": "CS",
     "description": ""
   },
@@ -5000,12 +5000,12 @@
     "description": ""
   },
   "x00189195": {
-    "name": "Chemical Shift Minimum Integration Limit in Hz	Retired",
+    "name": "Chemical Shift Minimum Integration Limit in Hz Retired",
     "vr": "FD",
     "description": ""
   },
   "x00189196": {
-    "name": "Chemical Shift Maximum Integration Limit in Hz	Retired",
+    "name": "Chemical Shift Maximum Integration Limit in Hz Retired",
     "vr": "FD",
     "description": ""
   },
@@ -6295,27 +6295,27 @@
     "description": ""
   },
   "x00200014": {
-    "name": "Isotope Number	Retired",
+    "name": "Isotope Number Retired",
     "vr": "IS",
     "description": ""
   },
   "x00200015": {
-    "name": "Phase Number	Retired",
+    "name": "Phase Number Retired",
     "vr": "IS",
     "description": ""
   },
   "x00200016": {
-    "name": "Interval Number	Retired",
+    "name": "Interval Number Retired",
     "vr": "IS",
     "description": ""
   },
   "x00200017": {
-    "name": "Time Slot Number	Retired",
+    "name": "Time Slot Number Retired",
     "vr": "IS",
     "description": ""
   },
   "x00200018": {
-    "name": "Angle Number	Retired",
+    "name": "Angle Number Retired",
     "vr": "IS",
     "description": ""
   },
@@ -6330,22 +6330,22 @@
     "description": ""
   },
   "x00200022": {
-    "name": "Overlay Number	Retired",
+    "name": "Overlay Number Retired",
     "vr": "IS",
     "description": ""
   },
   "x00200024": {
-    "name": "Curve Number	Retired",
+    "name": "Curve Number Retired",
     "vr": "IS",
     "description": ""
   },
   "x00200026": {
-    "name": "LUT Number	Retired",
+    "name": "LUT Number Retired",
     "vr": "IS",
     "description": ""
   },
   "x00200030": {
-    "name": "Image Position	Retired",
+    "name": "Image Position Retired",
     "vr": "DS",
     "description": ""
   },
@@ -6355,7 +6355,7 @@
     "description": ""
   },
   "x00200035": {
-    "name": "Image Orientation	Retired",
+    "name": "Image Orientation Retired",
     "vr": "DS",
     "description": ""
   },
@@ -6365,7 +6365,7 @@
     "description": ""
   },
   "x00200050": {
-    "name": "Location	Retired",
+    "name": "Location Retired",
     "vr": "DS",
     "description": ""
   },
@@ -6385,17 +6385,17 @@
     "description": ""
   },
   "x00200070": {
-    "name": "Image Geometry Type	Retired",
+    "name": "Image Geometry Type Retired",
     "vr": "LO",
     "description": ""
   },
   "x00200080": {
-    "name": "Masking Image	Retired",
+    "name": "Masking Image Retired",
     "vr": "CS",
     "description": ""
   },
   "x002000AA": {
-    "name": "Report Number	Retired",
+    "name": "Report Number Retired",
     "vr": "IS",
     "description": ""
   },
@@ -6425,12 +6425,12 @@
     "description": ""
   },
   "x00201000": {
-    "name": "Series in Study	Retired",
+    "name": "Series in Study Retired",
     "vr": "IS",
     "description": ""
   },
   "x00201001": {
-    "name": "Acquisitions in Series	Retired",
+    "name": "Acquisitions in Series Retired",
     "vr": "IS",
     "description": ""
   },
@@ -6440,22 +6440,22 @@
     "description": ""
   },
   "x00201003": {
-    "name": "Images in Series	Retired",
+    "name": "Images in Series Retired",
     "vr": "IS",
     "description": ""
   },
   "x00201004": {
-    "name": "Acquisitions in Study	Retired",
+    "name": "Acquisitions in Study Retired",
     "vr": "IS",
     "description": ""
   },
   "x00201005": {
-    "name": "Images in Study	Retired",
+    "name": "Images in Study Retired",
     "vr": "IS",
     "description": ""
   },
   "x00201020": {
-    "name": "Reference	Retired",
+    "name": "Reference Retired",
     "vr": "LO",
     "description": ""
   },
@@ -6470,7 +6470,7 @@
     "description": ""
   },
   "x00201070": {
-    "name": "Other Study Numbers	Retired",
+    "name": "Other Study Numbers Retired",
     "vr": "IS",
     "description": ""
   },
@@ -6505,37 +6505,37 @@
     "description": ""
   },
   "x002031xx": {
-    "name": "Source Image IDs	Retired",
+    "name": "Source Image IDs Retired",
     "vr": "CS",
     "description": ""
   },
   "x00203401": {
-    "name": "Modifying Device ID	Retired",
+    "name": "Modifying Device ID Retired",
     "vr": "CS",
     "description": ""
   },
   "x00203402": {
-    "name": "Modified Image ID	Retired",
+    "name": "Modified Image ID Retired",
     "vr": "CS",
     "description": ""
   },
   "x00203403": {
-    "name": "Modified Image Date	Retired",
+    "name": "Modified Image Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x00203404": {
-    "name": "Modifying Device Manufacturer	Retired",
+    "name": "Modifying Device Manufacturer Retired",
     "vr": "LO",
     "description": ""
   },
   "x00203405": {
-    "name": "Modified Image Time	Retired",
+    "name": "Modified Image Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x00203406": {
-    "name": "Modified Image Description	Retired",
+    "name": "Modified Image Description Retired",
     "vr": "LO",
     "description": ""
   },
@@ -6545,12 +6545,12 @@
     "description": ""
   },
   "x00205000": {
-    "name": "Original Image Identification	Retired",
+    "name": "Original Image Identification Retired",
     "vr": "AT",
     "description": ""
   },
   "x00205002": {
-    "name": "Original Image Identification Nomenclature	Retired",
+    "name": "Original Image Identification Nomenclature Retired",
     "vr": "LO",
     "description": ""
   },
@@ -7245,7 +7245,7 @@
     "description": ""
   },
   "x00221094": {
-    "name": "Lens Constant Description	Retired",
+    "name": "Lens Constant Description Retired",
     "vr": "LO",
     "description": ""
   },
@@ -7345,7 +7345,7 @@
     "description": ""
   },
   "x00221153": {
-    "name": "Ophthalmic Axial Length Acquisition Method Code Sequence	Retired",
+    "name": "Ophthalmic Axial Length Acquisition Method Code Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -7415,12 +7415,12 @@
     "description": ""
   },
   "x00221265": {
-    "name": "Ophthalmic Axial Length Quality Metric Type Code Sequence	Retired",
+    "name": "Ophthalmic Axial Length Quality Metric Type Code Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00221273": {
-    "name": "Ophthalmic Axial Length Quality Metric Type Description	Retired",
+    "name": "Ophthalmic Axial Length Quality Metric Type Description Retired",
     "vr": "LO",
     "description": ""
   },
@@ -8110,7 +8110,7 @@
     "description": ""
   },
   "x00280005": {
-    "name": "Image Dimensions	Retired",
+    "name": "Image Dimensions Retired",
     "vr": "US",
     "description": ""
   },
@@ -8145,7 +8145,7 @@
     "description": ""
   },
   "x00280012": {
-    "name": "Planes	Retired",
+    "name": "Planes Retired",
     "vr": "US",
     "description": ""
   },
@@ -8180,12 +8180,12 @@
     "description": ""
   },
   "x00280040": {
-    "name": "Image Format	Retired",
+    "name": "Image Format Retired",
     "vr": "CS",
     "description": ""
   },
   "x00280050": {
-    "name": "Manipulated Image	Retired",
+    "name": "Manipulated Image Retired",
     "vr": "LO",
     "description": ""
   },
@@ -8195,97 +8195,97 @@
     "description": ""
   },
   "x0028005F": {
-    "name": "Compression Recognition Code	Retired",
+    "name": "Compression Recognition Code Retired",
     "vr": "LO",
     "description": ""
   },
   "x00280060": {
-    "name": "Compression Code	Retired",
+    "name": "Compression Code Retired",
     "vr": "CS",
     "description": ""
   },
   "x00280061": {
-    "name": "Compression Originator	Retired",
+    "name": "Compression Originator Retired",
     "vr": "SH",
     "description": ""
   },
   "x00280062": {
-    "name": "Compression Label	Retired",
+    "name": "Compression Label Retired",
     "vr": "LO",
     "description": ""
   },
   "x00280063": {
-    "name": "Compression Description	Retired",
+    "name": "Compression Description Retired",
     "vr": "SH",
     "description": ""
   },
   "x00280065": {
-    "name": "Compression Sequence	Retired",
+    "name": "Compression Sequence Retired",
     "vr": "CS",
     "description": ""
   },
   "x00280066": {
-    "name": "Compression Step Pointers	Retired",
+    "name": "Compression Step Pointers Retired",
     "vr": "AT",
     "description": ""
   },
   "x00280068": {
-    "name": "Repeat Interval	Retired",
+    "name": "Repeat Interval Retired",
     "vr": "US",
     "description": ""
   },
   "x00280069": {
-    "name": "Bits Grouped	Retired",
+    "name": "Bits Grouped Retired",
     "vr": "US",
     "description": ""
   },
   "x00280070": {
-    "name": "Perimeter Table	Retired",
+    "name": "Perimeter Table Retired",
     "vr": "US",
     "description": ""
   },
   "x00280071": {
-    "name": "Perimeter Value	Retired",
+    "name": "Perimeter Value Retired",
     "vr": "US or SS",
     "description": ""
   },
   "x00280080": {
-    "name": "Predictor Rows	Retired",
+    "name": "Predictor Rows Retired",
     "vr": "US",
     "description": ""
   },
   "x00280081": {
-    "name": "Predictor Columns	Retired",
+    "name": "Predictor Columns Retired",
     "vr": "US",
     "description": ""
   },
   "x00280082": {
-    "name": "Predictor Constants	Retired",
+    "name": "Predictor Constants Retired",
     "vr": "US",
     "description": ""
   },
   "x00280090": {
-    "name": "Blocked Pixels	Retired",
+    "name": "Blocked Pixels Retired",
     "vr": "CS",
     "description": ""
   },
   "x00280091": {
-    "name": "Block Rows	Retired",
+    "name": "Block Rows Retired",
     "vr": "US",
     "description": ""
   },
   "x00280092": {
-    "name": "Block Columns	Retired",
+    "name": "Block Columns Retired",
     "vr": "US",
     "description": ""
   },
   "x00280093": {
-    "name": "Row Overlap	Retired",
+    "name": "Row Overlap Retired",
     "vr": "US",
     "description": ""
   },
   "x00280094": {
-    "name": "Column Overlap	Retired",
+    "name": "Column Overlap Retired",
     "vr": "US",
     "description": ""
   },
@@ -8310,12 +8310,12 @@
     "description": ""
   },
   "x00280104": {
-    "name": "Smallest Valid Pixel Value	Retired",
+    "name": "Smallest Valid Pixel Value Retired",
     "vr": "US or SS",
     "description": ""
   },
   "x00280105": {
-    "name": "Largest Valid Pixel Value	Retired",
+    "name": "Largest Valid Pixel Value Retired",
     "vr": "US or SS",
     "description": ""
   },
@@ -8340,12 +8340,12 @@
     "description": ""
   },
   "x00280110": {
-    "name": "Smallest Image Pixel Value in Plane	Retired",
+    "name": "Smallest Image Pixel Value in Plane Retired",
     "vr": "US or SS",
     "description": ""
   },
   "x00280111": {
-    "name": "Largest Image Pixel Value in Plane	Retired",
+    "name": "Largest Image Pixel Value in Plane Retired",
     "vr": "US or SS",
     "description": ""
   },
@@ -8380,7 +8380,7 @@
     "description": ""
   },
   "x00280200": {
-    "name": "Image Location	Retired",
+    "name": "Image Location Retired",
     "vr": "US",
     "description": ""
   },
@@ -8410,117 +8410,117 @@
     "description": ""
   },
   "x00280400": {
-    "name": "Transform Label	Retired",
+    "name": "Transform Label Retired",
     "vr": "LO",
     "description": ""
   },
   "x00280401": {
-    "name": "Transform Version Number	Retired",
+    "name": "Transform Version Number Retired",
     "vr": "LO",
     "description": ""
   },
   "x00280402": {
-    "name": "Number of Transform Steps	Retired",
+    "name": "Number of Transform Steps Retired",
     "vr": "US",
     "description": ""
   },
   "x00280403": {
-    "name": "Sequence of Compressed Data	Retired",
+    "name": "Sequence of Compressed Data Retired",
     "vr": "LO",
     "description": ""
   },
   "x00280404": {
-    "name": "Details of Coefficients	Retired",
+    "name": "Details of Coefficients Retired",
     "vr": "AT",
     "description": ""
   },
   "x002804x0": {
-    "name": "Rows For Nth Order Coefficients	Retired",
+    "name": "Rows For Nth Order Coefficients Retired",
     "vr": "US",
     "description": ""
   },
   "x002804x1": {
-    "name": "Columns For Nth Order Coefficients	Retired",
+    "name": "Columns For Nth Order Coefficients Retired",
     "vr": "US",
     "description": ""
   },
   "x002804x2": {
-    "name": "Coefficient Coding	Retired",
+    "name": "Coefficient Coding Retired",
     "vr": "LO",
     "description": ""
   },
   "x002804x3": {
-    "name": "Coefficient Coding Pointers	Retired",
+    "name": "Coefficient Coding Pointers Retired",
     "vr": "AT",
     "description": ""
   },
   "x00280700": {
-    "name": "DCT Label	Retired",
+    "name": "DCT Label Retired",
     "vr": "LO",
     "description": ""
   },
   "x00280701": {
-    "name": "Data Block Description	Retired",
+    "name": "Data Block Description Retired",
     "vr": "CS",
     "description": ""
   },
   "x00280702": {
-    "name": "Data Block	Retired",
+    "name": "Data Block Retired",
     "vr": "AT",
     "description": ""
   },
   "x00280710": {
-    "name": "Normalization Factor Format	Retired",
+    "name": "Normalization Factor Format Retired",
     "vr": "US",
     "description": ""
   },
   "x00280720": {
-    "name": "Zonal Map Number Format	Retired",
+    "name": "Zonal Map Number Format Retired",
     "vr": "US",
     "description": ""
   },
   "x00280721": {
-    "name": "Zonal Map Location	Retired",
+    "name": "Zonal Map Location Retired",
     "vr": "AT",
     "description": ""
   },
   "x00280722": {
-    "name": "Zonal Map Format	Retired",
+    "name": "Zonal Map Format Retired",
     "vr": "US",
     "description": ""
   },
   "x00280730": {
-    "name": "Adaptive Map Format	Retired",
+    "name": "Adaptive Map Format Retired",
     "vr": "US",
     "description": ""
   },
   "x00280740": {
-    "name": "Code Number Format	Retired",
+    "name": "Code Number Format Retired",
     "vr": "US",
     "description": ""
   },
   "x002808x0": {
-    "name": "Code Label	Retired",
+    "name": "Code Label Retired",
     "vr": "CS",
     "description": ""
   },
   "x002808x2": {
-    "name": "Number of Tables	Retired",
+    "name": "Number of Tables Retired",
     "vr": "US",
     "description": ""
   },
   "x002808x3": {
-    "name": "Code Table Location	Retired",
+    "name": "Code Table Location Retired",
     "vr": "AT",
     "description": ""
   },
   "x002808x4": {
-    "name": "Bits For Code Word	Retired",
+    "name": "Bits For Code Word Retired",
     "vr": "US",
     "description": ""
   },
   "x002808x8": {
-    "name": "Image Data Location	Retired",
+    "name": "Image Data Location Retired",
     "vr": "AT",
     "description": ""
   },
@@ -8580,7 +8580,7 @@
     "description": ""
   },
   "x00281080": {
-    "name": "Gray Scale	Retired",
+    "name": "Gray Scale Retired",
     "vr": "CS",
     "description": ""
   },
@@ -8590,7 +8590,7 @@
     "description": ""
   },
   "x00281100": {
-    "name": "Gray Lookup Table Descriptor	Retired",
+    "name": "Gray Lookup Table Descriptor Retired",
     "vr": "US or SS",
     "description": ""
   },
@@ -8615,17 +8615,17 @@
     "description": ""
   },
   "x00281111": {
-    "name": "Large Red Palette Color Lookup Table Descriptor	Retired",
+    "name": "Large Red Palette Color Lookup Table Descriptor Retired",
     "vr": "US or SS",
     "description": ""
   },
   "x00281112": {
-    "name": "Large Green Palette Color Lookup Table Descriptor	Retired",
+    "name": "Large Green Palette Color Lookup Table Descriptor Retired",
     "vr": "US or SS",
     "description": ""
   },
   "x00281113": {
-    "name": "Large Blue Palette Color Lookup Table Descriptor	Retired",
+    "name": "Large Blue Palette Color Lookup Table Descriptor Retired",
     "vr": "US or SS",
     "description": ""
   },
@@ -8635,7 +8635,7 @@
     "description": ""
   },
   "x00281200": {
-    "name": "Gray Lookup Table Data	Retired",
+    "name": "Gray Lookup Table Data Retired",
     "vr": "US or SS or OW",
     "description": ""
   },
@@ -8660,22 +8660,22 @@
     "description": ""
   },
   "x00281211": {
-    "name": "Large Red Palette Color Lookup Table Data	Retired",
+    "name": "Large Red Palette Color Lookup Table Data Retired",
     "vr": "OW",
     "description": ""
   },
   "x00281212": {
-    "name": "Large Green Palette Color Lookup Table Data	Retired",
+    "name": "Large Green Palette Color Lookup Table Data Retired",
     "vr": "OW",
     "description": ""
   },
   "x00281213": {
-    "name": "Large Blue Palette Color Lookup Table Data	Retired",
+    "name": "Large Blue Palette Color Lookup Table Data Retired",
     "vr": "OW",
     "description": ""
   },
   "x00281214": {
-    "name": "Large Palette Color Lookup Table UID	Retired",
+    "name": "Large Palette Color Lookup Table UID Retired",
     "vr": "UI",
     "description": ""
   },
@@ -8855,12 +8855,12 @@
     "description": ""
   },
   "x00284000": {
-    "name": "Image Presentation Comments	Retired",
+    "name": "Image Presentation Comments Retired",
     "vr": "LT",
     "description": ""
   },
   "x00285000": {
-    "name": "Bi-Plane Acquisition Sequence	Retired",
+    "name": "Bi-Plane Acquisition Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -8885,7 +8885,7 @@
     "description": ""
   },
   "x00286030": {
-    "name": "Mask Pointer(s)	Retired",
+    "name": "Mask Pointer(s) Retired",
     "vr": "US",
     "description": ""
   },
@@ -9190,7 +9190,7 @@
     "description": ""
   },
   "x00289099": {
-    "name": "Largest Monochrome Pixel Value	Retired",
+    "name": "Largest Monochrome Pixel Value Retired",
     "vr": "US",
     "description": ""
   },
@@ -9315,72 +9315,72 @@
     "description": ""
   },
   "x0032000A": {
-    "name": "Study Status ID	Retired",
+    "name": "Study Status ID Retired",
     "vr": "CS",
     "description": ""
   },
   "x0032000C": {
-    "name": "Study Priority ID	Retired",
+    "name": "Study Priority ID Retired",
     "vr": "CS",
     "description": ""
   },
   "x00320012": {
-    "name": "Study ID Issuer	Retired",
+    "name": "Study ID Issuer Retired",
     "vr": "LO",
     "description": ""
   },
   "x00320032": {
-    "name": "Study Verified Date	Retired",
+    "name": "Study Verified Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x00320033": {
-    "name": "Study Verified Time	Retired",
+    "name": "Study Verified Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x00320034": {
-    "name": "Study Read Date	Retired",
+    "name": "Study Read Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x00320035": {
-    "name": "Study Read Time	Retired",
+    "name": "Study Read Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x00321000": {
-    "name": "Scheduled Study Start Date	Retired",
+    "name": "Scheduled Study Start Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x00321001": {
-    "name": "Scheduled Study Start Time	Retired",
+    "name": "Scheduled Study Start Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x00321010": {
-    "name": "Scheduled Study Stop Date	Retired",
+    "name": "Scheduled Study Stop Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x00321011": {
-    "name": "Scheduled Study Stop Time	Retired",
+    "name": "Scheduled Study Stop Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x00321020": {
-    "name": "Scheduled Study Location	Retired",
+    "name": "Scheduled Study Location Retired",
     "vr": "LO",
     "description": ""
   },
   "x00321021": {
-    "name": "Scheduled Study Location AE Title	Retired",
+    "name": "Scheduled Study Location AE Title Retired",
     "vr": "AE",
     "description": ""
   },
   "x00321030": {
-    "name": "Reason for Study	Retired",
+    "name": "Reason for Study Retired",
     "vr": "LO",
     "description": ""
   },
@@ -9405,27 +9405,27 @@
     "description": ""
   },
   "x00321040": {
-    "name": "Study Arrival Date	Retired",
+    "name": "Study Arrival Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x00321041": {
-    "name": "Study Arrival Time	Retired",
+    "name": "Study Arrival Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x00321050": {
-    "name": "Study Completion Date	Retired",
+    "name": "Study Completion Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x00321051": {
-    "name": "Study Completion Time	Retired",
+    "name": "Study Completion Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x00321055": {
-    "name": "Study Component Status ID	Retired",
+    "name": "Study Component Status ID Retired",
     "vr": "CS",
     "description": ""
   },
@@ -9445,7 +9445,7 @@
     "description": ""
   },
   "x00324000": {
-    "name": "Study Comments	Retired",
+    "name": "Study Comments Retired",
     "vr": "LT",
     "description": ""
   },
@@ -9465,7 +9465,7 @@
     "description": ""
   },
   "x00380011": {
-    "name": "Issuer of Admission ID	Retired",
+    "name": "Issuer of Admission ID Retired",
     "vr": "LO",
     "description": ""
   },
@@ -9480,27 +9480,27 @@
     "description": ""
   },
   "x0038001A": {
-    "name": "Scheduled Admission Date	Retired",
+    "name": "Scheduled Admission Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x0038001B": {
-    "name": "Scheduled Admission Time	Retired",
+    "name": "Scheduled Admission Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x0038001C": {
-    "name": "Scheduled Discharge Date	Retired",
+    "name": "Scheduled Discharge Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x0038001D": {
-    "name": "Scheduled Discharge Time	Retired",
+    "name": "Scheduled Discharge Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x0038001E": {
-    "name": "Scheduled Patient Institution Residence	Retired",
+    "name": "Scheduled Patient Institution Residence Retired",
     "vr": "LO",
     "description": ""
   },
@@ -9515,22 +9515,22 @@
     "description": ""
   },
   "x00380030": {
-    "name": "Discharge Date	Retired",
+    "name": "Discharge Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x00380032": {
-    "name": "Discharge Time	Retired",
+    "name": "Discharge Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x00380040": {
-    "name": "Discharge Diagnosis Description	Retired",
+    "name": "Discharge Diagnosis Description Retired",
     "vr": "LO",
     "description": ""
   },
   "x00380044": {
-    "name": "Discharge Diagnosis Code Sequence	Retired",
+    "name": "Discharge Diagnosis Code Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -9545,7 +9545,7 @@
     "description": ""
   },
   "x00380061": {
-    "name": "Issuer of Service Episode ID	Retired",
+    "name": "Issuer of Service Episode ID Retired",
     "vr": "LO",
     "description": ""
   },
@@ -10050,7 +10050,7 @@
     "description": ""
   },
   "x00400307": {
-    "name": "Distance Source to Support	Retired",
+    "name": "Distance Source to Support Retired",
     "vr": "DS",
     "description": ""
   },
@@ -10100,7 +10100,7 @@
     "description": ""
   },
   "x00400330": {
-    "name": "Referenced Procedure Step Sequence	Retired",
+    "name": "Referenced Procedure Step Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10130,7 +10130,7 @@
     "description": ""
   },
   "x0040050A": {
-    "name": "Specimen Accession Number	Retired",
+    "name": "Specimen Accession Number Retired",
     "vr": "LO",
     "description": ""
   },
@@ -10165,7 +10165,7 @@
     "description": ""
   },
   "x00400550": {
-    "name": "Specimen Sequence	Retired",
+    "name": "Specimen Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10175,12 +10175,12 @@
     "description": ""
   },
   "x00400552": {
-    "name": "Specimen Description Sequence (Trial)	Retired",
+    "name": "Specimen Description Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00400553": {
-    "name": "Specimen Description (Trial)	Retired",
+    "name": "Specimen Description (Trial) Retired",
     "vr": "ST",
     "description": ""
   },
@@ -10240,7 +10240,7 @@
     "description": ""
   },
   "x004006FA": {
-    "name": "Slide Identifier	Retired",
+    "name": "Slide Identifier Retired",
     "vr": "LO",
     "description": ""
   },
@@ -10265,12 +10265,12 @@
     "description": ""
   },
   "x004008D8": {
-    "name": "Pixel Spacing Sequence	Retired",
+    "name": "Pixel Spacing Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x004008DA": {
-    "name": "Coordinate System Axis Code Sequence	Retired",
+    "name": "Coordinate System Axis Code Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10280,7 +10280,7 @@
     "description": ""
   },
   "x004009F8": {
-    "name": "Vital Stain Code Sequence (Trial)	Retired",
+    "name": "Vital Stain Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10310,12 +10310,12 @@
     "description": ""
   },
   "x00401006": {
-    "name": "Placer Order Number / Procedure	Retired",
+    "name": "Placer Order Number / Procedure Retired",
     "vr": "SH",
     "description": ""
   },
   "x00401007": {
-    "name": "Filler Order Number / Procedure	Retired",
+    "name": "Filler Order Number / Procedure Retired",
     "vr": "SH",
     "description": ""
   },
@@ -10350,7 +10350,7 @@
     "description": ""
   },
   "x00401060": {
-    "name": "Requested Procedure Description (Trial)	Retired",
+    "name": "Requested Procedure Description (Trial) Retired",
     "vr": "LO",
     "description": ""
   },
@@ -10380,7 +10380,7 @@
     "description": ""
   },
   "x00402001": {
-    "name": "Reason for the Imaging Service Request	Retired",
+    "name": "Reason for the Imaging Service Request Retired",
     "vr": "LO",
     "description": ""
   },
@@ -10395,12 +10395,12 @@
     "description": ""
   },
   "x00402006": {
-    "name": "Placer Order Number / Imaging Service Request (Retired)	Retired",
+    "name": "Placer Order Number / Imaging Service Request (Retired) Retired",
     "vr": "SH",
     "description": ""
   },
   "x00402007": {
-    "name": "Filler Order Number / Imaging Service Request (Retired)	Retired",
+    "name": "Filler Order Number / Imaging Service Request (Retired) Retired",
     "vr": "SH",
     "description": ""
   },
@@ -10445,22 +10445,22 @@
     "description": ""
   },
   "x00404001": {
-    "name": "General Purpose Scheduled Procedure Step Status	Retired",
+    "name": "General Purpose Scheduled Procedure Step Status Retired",
     "vr": "CS",
     "description": ""
   },
   "x00404002": {
-    "name": "General Purpose Performed Procedure Step Status	Retired",
+    "name": "General Purpose Performed Procedure Step Status Retired",
     "vr": "CS",
     "description": ""
   },
   "x00404003": {
-    "name": "General Purpose Scheduled Procedure Step Priority	Retired",
+    "name": "General Purpose Scheduled Procedure Step Priority Retired",
     "vr": "CS",
     "description": ""
   },
   "x00404004": {
-    "name": "Scheduled Processing Applications Code Sequence	Retired",
+    "name": "Scheduled Processing Applications Code Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10470,7 +10470,7 @@
     "description": ""
   },
   "x00404006": {
-    "name": "Multiple Copies Flag	Retired",
+    "name": "Multiple Copies Flag Retired",
     "vr": "CS",
     "description": ""
   },
@@ -10495,12 +10495,12 @@
     "description": ""
   },
   "x00404015": {
-    "name": "Resulting General Purpose Performed Procedure Steps Sequence	Retired",
+    "name": "Resulting General Purpose Performed Procedure Steps Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00404016": {
-    "name": "Referenced General Purpose Scheduled Procedure Step Sequence	Retired",
+    "name": "Referenced General Purpose Scheduled Procedure Step Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10525,12 +10525,12 @@
     "description": ""
   },
   "x00404022": {
-    "name": "Relevant Information Sequence	Retired",
+    "name": "Relevant Information Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00404023": {
-    "name": "Referenced General Purpose Scheduled Procedure Step Transaction UID	Retired",
+    "name": "Referenced General Purpose Scheduled Procedure Step Transaction UID Retired",
     "vr": "UI",
     "description": ""
   },
@@ -10565,12 +10565,12 @@
     "description": ""
   },
   "x00404031": {
-    "name": "Requested Subsequent Workitem Code Sequence	Retired",
+    "name": "Requested Subsequent Workitem Code Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00404032": {
-    "name": "Non-DICOM Output Code Sequence	Retired",
+    "name": "Non-DICOM Output Code Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10720,7 +10720,7 @@
     "description": ""
   },
   "x0040A007": {
-    "name": "Findings Flag (Trial)	Retired",
+    "name": "Findings Flag (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
@@ -10730,32 +10730,32 @@
     "description": ""
   },
   "x0040A020": {
-    "name": "Findings Sequence (Trial)	Retired",
+    "name": "Findings Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x0040A021": {
-    "name": "Findings Group UID (Trial)	Retired",
+    "name": "Findings Group UID (Trial) Retired",
     "vr": "UI",
     "description": ""
   },
   "x0040A022": {
-    "name": "Referenced Findings Group UID (Trial)	Retired",
+    "name": "Referenced Findings Group UID (Trial) Retired",
     "vr": "UI",
     "description": ""
   },
   "x0040A023": {
-    "name": "Findings Group Recording Date (Trial)	Retired",
+    "name": "Findings Group Recording Date (Trial) Retired",
     "vr": "DA",
     "description": ""
   },
   "x0040A024": {
-    "name": "Findings Group Recording Time (Trial)	Retired",
+    "name": "Findings Group Recording Time (Trial) Retired",
     "vr": "TM",
     "description": ""
   },
   "x0040A026": {
-    "name": "Findings Source Category Code Sequence (Trial)	Retired",
+    "name": "Findings Source Category Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10765,7 +10765,7 @@
     "description": ""
   },
   "x0040A028": {
-    "name": "Documenting Organization Identifier Code Sequence (Trial)	Retired",
+    "name": "Documenting Organization Identifier Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10790,7 +10790,7 @@
     "description": ""
   },
   "x0040A047": {
-    "name": "Measurement Precision Description (Trial)	Retired",
+    "name": "Measurement Precision Description (Trial) Retired",
     "vr": "LO",
     "description": ""
   },
@@ -10800,32 +10800,32 @@
     "description": ""
   },
   "x0040A057": {
-    "name": "Urgency or Priority Alerts (Trial)	Retired",
+    "name": "Urgency or Priority Alerts (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
   "x0040A060": {
-    "name": "Sequencing Indicator (Trial)	Retired",
+    "name": "Sequencing Indicator (Trial) Retired",
     "vr": "LO",
     "description": ""
   },
   "x0040A066": {
-    "name": "Document Identifier Code Sequence (Trial)	Retired",
+    "name": "Document Identifier Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x0040A067": {
-    "name": "Document Author (Trial)	Retired",
+    "name": "Document Author (Trial) Retired",
     "vr": "PN",
     "description": ""
   },
   "x0040A068": {
-    "name": "Document Author Identifier Code Sequence (Trial)	Retired",
+    "name": "Document Author Identifier Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x0040A070": {
-    "name": "Identifier Code Sequence (Trial)	Retired",
+    "name": "Identifier Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10835,7 +10835,7 @@
     "description": ""
   },
   "x0040A074": {
-    "name": "Object Binary Identifier (Trial)	Retired",
+    "name": "Object Binary Identifier (Trial) Retired",
     "vr": "OB",
     "description": ""
   },
@@ -10845,7 +10845,7 @@
     "description": ""
   },
   "x0040A076": {
-    "name": "Documenting Observer Identifier Code Sequence (Trial)	Retired",
+    "name": "Documenting Observer Identifier Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10880,7 +10880,7 @@
     "description": ""
   },
   "x0040A085": {
-    "name": "Procedure Identifier Code Sequence (Trial)	Retired",
+    "name": "Procedure Identifier Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10890,12 +10890,12 @@
     "description": ""
   },
   "x0040A089": {
-    "name": "Object Directory Binary Identifier (Trial)	Retired",
+    "name": "Object Directory Binary Identifier (Trial) Retired",
     "vr": "OB",
     "description": ""
   },
   "x0040A090": {
-    "name": "Equivalent CDA Document Sequence	Retired",
+    "name": "Equivalent CDA Document Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -10905,12 +10905,12 @@
     "description": ""
   },
   "x0040A110": {
-    "name": "Date of Document or Verbal Transaction (Trial)	Retired",
+    "name": "Date of Document or Verbal Transaction (Trial) Retired",
     "vr": "DA",
     "description": ""
   },
   "x0040A112": {
-    "name": "Time of Document Creation or Verbal Transaction (Trial)	Retired",
+    "name": "Time of Document Creation or Verbal Transaction (Trial) Retired",
     "vr": "TM",
     "description": ""
   },
@@ -10940,7 +10940,7 @@
     "description": ""
   },
   "x0040A125": {
-    "name": "Report Status ID (Trial)	Retired",
+    "name": "Report Status ID (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
@@ -10990,7 +10990,7 @@
     "description": ""
   },
   "x0040A167": {
-    "name": "Observation Category Code Sequence (Trial)	Retired",
+    "name": "Observation Category Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -11000,7 +11000,7 @@
     "description": ""
   },
   "x0040A16A": {
-    "name": "Bibliographic Citation (Trial)	Retired",
+    "name": "Bibliographic Citation (Trial) Retired",
     "vr": "ST",
     "description": ""
   },
@@ -11015,17 +11015,17 @@
     "description": ""
   },
   "x0040A172": {
-    "name": "Referenced Observation UID (Trial)	Retired",
+    "name": "Referenced Observation UID (Trial) Retired",
     "vr": "UI",
     "description": ""
   },
   "x0040A173": {
-    "name": "Referenced Observation Class (Trial)	Retired",
+    "name": "Referenced Observation Class (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
   "x0040A174": {
-    "name": "Referenced Object Observation Class (Trial)	Retired",
+    "name": "Referenced Object Observation Class (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
@@ -11035,17 +11035,17 @@
     "description": ""
   },
   "x0040A192": {
-    "name": "Observation Date (Trial)	Retired",
+    "name": "Observation Date (Trial) Retired",
     "vr": "DA",
     "description": ""
   },
   "x0040A193": {
-    "name": "Observation Time (Trial)	Retired",
+    "name": "Observation Time (Trial) Retired",
     "vr": "TM",
     "description": ""
   },
   "x0040A194": {
-    "name": "Measurement Automation (Trial)	Retired",
+    "name": "Measurement Automation (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
@@ -11055,27 +11055,27 @@
     "description": ""
   },
   "x0040A224": {
-    "name": "Identification Description (Trial)	Retired",
+    "name": "Identification Description (Trial) Retired",
     "vr": "ST",
     "description": ""
   },
   "x0040A290": {
-    "name": "Coordinates Set Geometric Type (Trial)	Retired",
+    "name": "Coordinates Set Geometric Type (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
   "x0040A296": {
-    "name": "Algorithm Code Sequence (Trial)	Retired",
+    "name": "Algorithm Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x0040A297": {
-    "name": "Algorithm Description (Trial)	Retired",
+    "name": "Algorithm Description (Trial) Retired",
     "vr": "ST",
     "description": ""
   },
   "x0040A29A": {
-    "name": "Pixel Coordinates Set (Trial)	Retired",
+    "name": "Pixel Coordinates Set (Trial) Retired",
     "vr": "SL",
     "description": ""
   },
@@ -11090,7 +11090,7 @@
     "description": ""
   },
   "x0040A307": {
-    "name": "Current Observer (Trial)	Retired",
+    "name": "Current Observer (Trial) Retired",
     "vr": "PN",
     "description": ""
   },
@@ -11100,37 +11100,37 @@
     "description": ""
   },
   "x0040A313": {
-    "name": "Referenced Accession Sequence (Trial)	Retired",
+    "name": "Referenced Accession Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x0040A33A": {
-    "name": "Report Status Comment (Trial)	Retired",
+    "name": "Report Status Comment (Trial) Retired",
     "vr": "ST",
     "description": ""
   },
   "x0040A340": {
-    "name": "Procedure Context Sequence (Trial)	Retired",
+    "name": "Procedure Context Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x0040A352": {
-    "name": "Verbal Source (Trial)	Retired",
+    "name": "Verbal Source (Trial) Retired",
     "vr": "PN",
     "description": ""
   },
   "x0040A353": {
-    "name": "Address (Trial)	Retired",
+    "name": "Address (Trial) Retired",
     "vr": "ST",
     "description": ""
   },
   "x0040A354": {
-    "name": "Telephone Number (Trial)	Retired",
+    "name": "Telephone Number (Trial) Retired",
     "vr": "LO",
     "description": ""
   },
   "x0040A358": {
-    "name": "Verbal Source Identifier Code Sequence (Trial)	Retired",
+    "name": "Verbal Source Identifier Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -11155,7 +11155,7 @@
     "description": ""
   },
   "x0040A380": {
-    "name": "Report Detail Sequence (Trial)	Retired",
+    "name": "Report Detail Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -11170,17 +11170,17 @@
     "description": ""
   },
   "x0040A402": {
-    "name": "Observation Subject UID (Trial)	Retired",
+    "name": "Observation Subject UID (Trial) Retired",
     "vr": "UI",
     "description": ""
   },
   "x0040A403": {
-    "name": "Observation Subject Class (Trial)	Retired",
+    "name": "Observation Subject Class (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
   "x0040A404": {
-    "name": "Observation Subject Type Code Sequence (Trial)	Retired",
+    "name": "Observation Subject Type Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -11220,17 +11220,17 @@
     "description": ""
   },
   "x0040A600": {
-    "name": "Observation Subject Context Flag (Trial)	Retired",
+    "name": "Observation Subject Context Flag (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
   "x0040A601": {
-    "name": "Observer Context Flag (Trial)	Retired",
+    "name": "Observer Context Flag (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
   "x0040A603": {
-    "name": "Procedure Context Flag (Trial)	Retired",
+    "name": "Procedure Context Flag (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
@@ -11240,22 +11240,22 @@
     "description": ""
   },
   "x0040A731": {
-    "name": "Relationship Sequence (Trial)	Retired",
+    "name": "Relationship Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x0040A732": {
-    "name": "Relationship Type Code Sequence (Trial)	Retired",
+    "name": "Relationship Type Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x0040A744": {
-    "name": "Language Code Sequence (Trial)	Retired",
+    "name": "Language Code Sequence (Trial) Retired",
     "vr": "SQ",
     "description": ""
   },
   "x0040A992": {
-    "name": "Uniform Resource Locator (Trial)	Retired",
+    "name": "Uniform Resource Locator (Trial) Retired",
     "vr": "ST",
     "description": ""
   },
@@ -11270,27 +11270,27 @@
     "description": ""
   },
   "x0040DB06": {
-    "name": "Template Version	Retired",
+    "name": "Template Version Retired",
     "vr": "DT",
     "description": ""
   },
   "x0040DB07": {
-    "name": "Template Local Version	Retired",
+    "name": "Template Local Version Retired",
     "vr": "DT",
     "description": ""
   },
   "x0040DB0B": {
-    "name": "Template Extension Flag	Retired",
+    "name": "Template Extension Flag Retired",
     "vr": "CS",
     "description": ""
   },
   "x0040DB0C": {
-    "name": "Template Extension Organization UID	Retired",
+    "name": "Template Extension Organization UID Retired",
     "vr": "UI",
     "description": ""
   },
   "x0040DB0D": {
-    "name": "Template Extension Creator UID	Retired",
+    "name": "Template Extension Creator UID Retired",
     "vr": "UI",
     "description": ""
   },
@@ -12620,12 +12620,12 @@
     "description": ""
   },
   "x00541400": {
-    "name": "Counts Included	Retired",
+    "name": "Counts Included Retired",
     "vr": "CS",
     "description": ""
   },
   "x00541401": {
-    "name": "Dead Time Correction Flag	Retired",
+    "name": "Dead Time Correction Flag Retired",
     "vr": "CS",
     "description": ""
   },
@@ -12930,17 +12930,17 @@
     "description": ""
   },
   "x00660023": {
-    "name": "Triangle Point Index List	Retired",
+    "name": "Triangle Point Index List Retired",
     "vr": "OW",
     "description": ""
   },
   "x00660024": {
-    "name": "Edge Point Index List	Retired",
+    "name": "Edge Point Index List Retired",
     "vr": "OW",
     "description": ""
   },
   "x00660025": {
-    "name": "Vertex Point Index List	Retired",
+    "name": "Vertex Point Index List Retired",
     "vr": "OW",
     "description": ""
   },
@@ -12960,7 +12960,7 @@
     "description": ""
   },
   "x00660029": {
-    "name": "Primitive Point Index List	Retired",
+    "name": "Primitive Point Index List Retired",
     "vr": "OW",
     "description": ""
   },
@@ -13575,7 +13575,7 @@
     "description": ""
   },
   "x00700040": {
-    "name": "Image Rotation (Retired)	Retired",
+    "name": "Image Rotation (Retired) Retired",
     "vr": "IS",
     "description": ""
   },
@@ -13590,12 +13590,12 @@
     "description": ""
   },
   "x00700050": {
-    "name": "Displayed Area Top Left Hand Corner (Trial)	Retired",
+    "name": "Displayed Area Top Left Hand Corner (Trial) Retired",
     "vr": "US",
     "description": ""
   },
   "x00700051": {
-    "name": "Displayed Area Bottom Right Hand Corner (Trial)	Retired",
+    "name": "Displayed Area Bottom Right Hand Corner (Trial) Retired",
     "vr": "US",
     "description": ""
   },
@@ -13630,7 +13630,7 @@
     "description": ""
   },
   "x00700067": {
-    "name": "Graphic Layer Recommended Display RGB Value	Retired",
+    "name": "Graphic Layer Recommended Display RGB Value Retired",
     "vr": "US",
     "description": ""
   },
@@ -14915,7 +14915,7 @@
     "description": ""
   },
   "x00741024": {
-    "name": "Beam Order Index (Trial)	Retired",
+    "name": "Beam Order Index (Trial) Retired",
     "vr": "IS",
     "description": ""
   },
@@ -14980,12 +14980,12 @@
     "description": ""
   },
   "x00741038": {
-    "name": "Double Exposure Meterset (Trial)	Retired",
+    "name": "Double Exposure Meterset (Trial) Retired",
     "vr": "DS",
     "description": ""
   },
   "x0074103A": {
-    "name": "Double Exposure Field Delta (Trial)	Retired",
+    "name": "Double Exposure Field Delta (Trial) Retired",
     "vr": "DS",
     "description": ""
   },
@@ -15085,12 +15085,12 @@
     "description": ""
   },
   "x00741220": {
-    "name": "Related Procedure Step Sequence	Retired",
+    "name": "Related Procedure Step Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x00741222": {
-    "name": "Procedure Step Relationship Type	Retired",
+    "name": "Procedure Step Relationship Type Retired",
     "vr": "LO",
     "description": ""
   },
@@ -15620,22 +15620,22 @@
     "description": ""
   },
   "x00880904": {
-    "name": "Topic Title	Retired",
+    "name": "Topic Title Retired",
     "vr": "LO",
     "description": ""
   },
   "x00880906": {
-    "name": "Topic Subject	Retired",
+    "name": "Topic Subject Retired",
     "vr": "ST",
     "description": ""
   },
   "x00880910": {
-    "name": "Topic Author	Retired",
+    "name": "Topic Author Retired",
     "vr": "LO",
     "description": ""
   },
   "x00880912": {
-    "name": "Topic Keywords	Retired",
+    "name": "Topic Keywords Retired",
     "vr": "LO",
     "description": ""
   },
@@ -15785,37 +15785,37 @@
     "description": ""
   },
   "x1000xxx0": {
-    "name": "Escape Triplet	Retired",
+    "name": "Escape Triplet Retired",
     "vr": "US",
     "description": ""
   },
   "x1000xxx1": {
-    "name": "Run Length Triplet	Retired",
+    "name": "Run Length Triplet Retired",
     "vr": "US",
     "description": ""
   },
   "x1000xxx2": {
-    "name": "Huffman Table Size	Retired",
+    "name": "Huffman Table Size Retired",
     "vr": "US",
     "description": ""
   },
   "x1000xxx3": {
-    "name": "Huffman Table Triplet	Retired",
+    "name": "Huffman Table Triplet Retired",
     "vr": "US",
     "description": ""
   },
   "x1000xxx4": {
-    "name": "Shift Table Size	Retired",
+    "name": "Shift Table Size Retired",
     "vr": "US",
     "description": ""
   },
   "x1000xxx5": {
-    "name": "Shift Table Triplet	Retired",
+    "name": "Shift Table Triplet Retired",
     "vr": "US",
     "description": ""
   },
   "x1010xxxx": {
-    "name": "Zonal Map	Retired",
+    "name": "Zonal Map Retired",
     "vr": "US",
     "description": ""
   },
@@ -15860,32 +15860,32 @@
     "description": ""
   },
   "x20000062": {
-    "name": "Color Image Printing Flag	Retired",
+    "name": "Color Image Printing Flag Retired",
     "vr": "CS",
     "description": ""
   },
   "x20000063": {
-    "name": "Collation Flag	Retired",
+    "name": "Collation Flag Retired",
     "vr": "CS",
     "description": ""
   },
   "x20000065": {
-    "name": "Annotation Flag	Retired",
+    "name": "Annotation Flag Retired",
     "vr": "CS",
     "description": ""
   },
   "x20000067": {
-    "name": "Image Overlay Flag	Retired",
+    "name": "Image Overlay Flag Retired",
     "vr": "CS",
     "description": ""
   },
   "x20000069": {
-    "name": "Presentation LUT Flag	Retired",
+    "name": "Presentation LUT Flag Retired",
     "vr": "CS",
     "description": ""
   },
   "x2000006A": {
-    "name": "Image Box Presentation LUT Flag	Retired",
+    "name": "Image Box Presentation LUT Flag Retired",
     "vr": "CS",
     "description": ""
   },
@@ -15920,7 +15920,7 @@
     "description": ""
   },
   "x20000510": {
-    "name": "Referenced Stored Print Sequence	Retired",
+    "name": "Referenced Stored Print Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -16100,12 +16100,12 @@
     "description": ""
   },
   "x20200130": {
-    "name": "Referenced Image Overlay Box Sequence	Retired",
+    "name": "Referenced Image Overlay Box Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x20200140": {
-    "name": "Referenced VOI LUT Box Sequence	Retired",
+    "name": "Referenced VOI LUT Box Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -16120,62 +16120,62 @@
     "description": ""
   },
   "x20400010": {
-    "name": "Referenced Overlay Plane Sequence	Retired",
+    "name": "Referenced Overlay Plane Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x20400011": {
-    "name": "Referenced Overlay Plane Groups	Retired",
+    "name": "Referenced Overlay Plane Groups Retired",
     "vr": "US",
     "description": ""
   },
   "x20400020": {
-    "name": "Overlay Pixel Data Sequence	Retired",
+    "name": "Overlay Pixel Data Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x20400060": {
-    "name": "Overlay Magnification Type	Retired",
+    "name": "Overlay Magnification Type Retired",
     "vr": "CS",
     "description": ""
   },
   "x20400070": {
-    "name": "Overlay Smoothing Type	Retired",
+    "name": "Overlay Smoothing Type Retired",
     "vr": "CS",
     "description": ""
   },
   "x20400072": {
-    "name": "Overlay or Image Magnification	Retired",
+    "name": "Overlay or Image Magnification Retired",
     "vr": "CS",
     "description": ""
   },
   "x20400074": {
-    "name": "Magnify to Number of Columns	Retired",
+    "name": "Magnify to Number of Columns Retired",
     "vr": "US",
     "description": ""
   },
   "x20400080": {
-    "name": "Overlay Foreground Density	Retired",
+    "name": "Overlay Foreground Density Retired",
     "vr": "CS",
     "description": ""
   },
   "x20400082": {
-    "name": "Overlay Background Density	Retired",
+    "name": "Overlay Background Density Retired",
     "vr": "CS",
     "description": ""
   },
   "x20400090": {
-    "name": "Overlay Mode	Retired",
+    "name": "Overlay Mode Retired",
     "vr": "CS",
     "description": ""
   },
   "x20400100": {
-    "name": "Threshold Density	Retired",
+    "name": "Threshold Density Retired",
     "vr": "CS",
     "description": ""
   },
   "x20400500": {
-    "name": "Referenced Image Box Sequence (Retired)	Retired",
+    "name": "Referenced Image Box Sequence (Retired) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -16195,7 +16195,7 @@
     "description": ""
   },
   "x21000010": {
-    "name": "Print Job ID	Retired",
+    "name": "Print Job ID Retired",
     "vr": "SH",
     "description": ""
   },
@@ -16240,7 +16240,7 @@
     "description": ""
   },
   "x21000500": {
-    "name": "Referenced Print Job Sequence (Pull Stored Print)	Retired",
+    "name": "Referenced Print Job Sequence (Pull Stored Print) Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -16260,67 +16260,67 @@
     "description": ""
   },
   "x21100099": {
-    "name": "Print Queue ID	Retired",
+    "name": "Print Queue ID Retired",
     "vr": "SH",
     "description": ""
   },
   "x21200010": {
-    "name": "Queue Status	Retired",
+    "name": "Queue Status Retired",
     "vr": "CS",
     "description": ""
   },
   "x21200050": {
-    "name": "Print Job Description Sequence	Retired",
+    "name": "Print Job Description Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x21200070": {
-    "name": "Referenced Print Job Sequence	Retired",
+    "name": "Referenced Print Job Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x21300010": {
-    "name": "Print Management Capabilities Sequence	Retired",
+    "name": "Print Management Capabilities Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x21300015": {
-    "name": "Printer Characteristics Sequence	Retired",
+    "name": "Printer Characteristics Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x21300030": {
-    "name": "Film Box Content Sequence	Retired",
+    "name": "Film Box Content Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x21300040": {
-    "name": "Image Box Content Sequence	Retired",
+    "name": "Image Box Content Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x21300050": {
-    "name": "Annotation Content Sequence	Retired",
+    "name": "Annotation Content Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x21300060": {
-    "name": "Image Overlay Box Content Sequence	Retired",
+    "name": "Image Overlay Box Content Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x21300080": {
-    "name": "Presentation LUT Content Sequence	Retired",
+    "name": "Presentation LUT Content Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x213000A0": {
-    "name": "Proposed Study Sequence	Retired",
+    "name": "Proposed Study Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x213000C0": {
-    "name": "Original Image Sequence	Retired",
+    "name": "Original Image Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
@@ -16880,17 +16880,17 @@
     "description": ""
   },
   "x300600C0": {
-    "name": "Frame of Reference Relationship Sequence	Retired",
+    "name": "Frame of Reference Relationship Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x300600C2": {
-    "name": "Related Frame of Reference UID	Retired",
+    "name": "Related Frame of Reference UID Retired",
     "vr": "UI",
     "description": ""
   },
   "x300600C4": {
-    "name": "Frame of Reference Transformation Type	Retired",
+    "name": "Frame of Reference Transformation Type Retired",
     "vr": "CS",
     "description": ""
   },
@@ -17660,17 +17660,17 @@
     "description": ""
   },
   "x300A0088": {
-    "name": "Beam Dose Point Depth	Retired",
+    "name": "Beam Dose Point Depth Retired",
     "vr": "FL",
     "description": ""
   },
   "x300A0089": {
-    "name": "Beam Dose Point Equivalent Depth	Retired",
+    "name": "Beam Dose Point Equivalent Depth Retired",
     "vr": "FL",
     "description": ""
   },
   "x300A008A": {
-    "name": "Beam Dose Point SSD	Retired",
+    "name": "Beam Dose Point SSD Retired",
     "vr": "FL",
     "description": ""
   },
@@ -19525,152 +19525,152 @@
     "description": ""
   },
   "x40000010": {
-    "name": "Arbitrary	Retired",
+    "name": "Arbitrary Retired",
     "vr": "LT",
     "description": ""
   },
   "x40004000": {
-    "name": "Text Comments	Retired",
+    "name": "Text Comments Retired",
     "vr": "LT",
     "description": ""
   },
   "x40080040": {
-    "name": "Results ID	Retired",
+    "name": "Results ID Retired",
     "vr": "SH",
     "description": ""
   },
   "x40080042": {
-    "name": "Results ID Issuer	Retired",
+    "name": "Results ID Issuer Retired",
     "vr": "LO",
     "description": ""
   },
   "x40080050": {
-    "name": "Referenced Interpretation Sequence	Retired",
+    "name": "Referenced Interpretation Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x400800FF": {
-    "name": "Report Production Status (Trial)	Retired",
+    "name": "Report Production Status (Trial) Retired",
     "vr": "CS",
     "description": ""
   },
   "x40080100": {
-    "name": "Interpretation Recorded Date	Retired",
+    "name": "Interpretation Recorded Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x40080101": {
-    "name": "Interpretation Recorded Time	Retired",
+    "name": "Interpretation Recorded Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x40080102": {
-    "name": "Interpretation Recorder	Retired",
+    "name": "Interpretation Recorder Retired",
     "vr": "PN",
     "description": ""
   },
   "x40080103": {
-    "name": "Reference to Recorded Sound	Retired",
+    "name": "Reference to Recorded Sound Retired",
     "vr": "LO",
     "description": ""
   },
   "x40080108": {
-    "name": "Interpretation Transcription Date	Retired",
+    "name": "Interpretation Transcription Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x40080109": {
-    "name": "Interpretation Transcription Time	Retired",
+    "name": "Interpretation Transcription Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x4008010A": {
-    "name": "Interpretation Transcriber	Retired",
+    "name": "Interpretation Transcriber Retired",
     "vr": "PN",
     "description": ""
   },
   "x4008010B": {
-    "name": "Interpretation Text	Retired",
+    "name": "Interpretation Text Retired",
     "vr": "ST",
     "description": ""
   },
   "x4008010C": {
-    "name": "Interpretation Author	Retired",
+    "name": "Interpretation Author Retired",
     "vr": "PN",
     "description": ""
   },
   "x40080111": {
-    "name": "Interpretation Approver Sequence	Retired",
+    "name": "Interpretation Approver Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x40080112": {
-    "name": "Interpretation Approval Date	Retired",
+    "name": "Interpretation Approval Date Retired",
     "vr": "DA",
     "description": ""
   },
   "x40080113": {
-    "name": "Interpretation Approval Time	Retired",
+    "name": "Interpretation Approval Time Retired",
     "vr": "TM",
     "description": ""
   },
   "x40080114": {
-    "name": "Physician Approving Interpretation	Retired",
+    "name": "Physician Approving Interpretation Retired",
     "vr": "PN",
     "description": ""
   },
   "x40080115": {
-    "name": "Interpretation Diagnosis Description	Retired",
+    "name": "Interpretation Diagnosis Description Retired",
     "vr": "LT",
     "description": ""
   },
   "x40080117": {
-    "name": "Interpretation Diagnosis Code Sequence	Retired",
+    "name": "Interpretation Diagnosis Code Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x40080118": {
-    "name": "Results Distribution List Sequence	Retired",
+    "name": "Results Distribution List Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x40080119": {
-    "name": "Distribution Name	Retired",
+    "name": "Distribution Name Retired",
     "vr": "PN",
     "description": ""
   },
   "x4008011A": {
-    "name": "Distribution Address	Retired",
+    "name": "Distribution Address Retired",
     "vr": "LO",
     "description": ""
   },
   "x40080200": {
-    "name": "Interpretation ID	Retired",
+    "name": "Interpretation ID Retired",
     "vr": "SH",
     "description": ""
   },
   "x40080202": {
-    "name": "Interpretation ID Issuer	Retired",
+    "name": "Interpretation ID Issuer Retired",
     "vr": "LO",
     "description": ""
   },
   "x40080210": {
-    "name": "Interpretation Type ID	Retired",
+    "name": "Interpretation Type ID Retired",
     "vr": "CS",
     "description": ""
   },
   "x40080212": {
-    "name": "Interpretation Status ID	Retired",
+    "name": "Interpretation Status ID Retired",
     "vr": "CS",
     "description": ""
   },
   "x40080300": {
-    "name": "Impressions	Retired",
+    "name": "Impressions Retired",
     "vr": "ST",
     "description": ""
   },
   "x40084000": {
-    "name": "Results Comments	Retired",
+    "name": "Results Comments Retired",
     "vr": "ST",
     "description": ""
   },
@@ -20110,132 +20110,132 @@
     "description": ""
   },
   "x50xx0005": {
-    "name": "Curve Dimensions	Retired",
+    "name": "Curve Dimensions Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx0010": {
-    "name": "Number of Points	Retired",
+    "name": "Number of Points Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx0020": {
-    "name": "Type of Data	Retired",
+    "name": "Type of Data Retired",
     "vr": "CS",
     "description": ""
   },
   "x50xx0022": {
-    "name": "Curve Description	Retired",
+    "name": "Curve Description Retired",
     "vr": "LO",
     "description": ""
   },
   "x50xx0030": {
-    "name": "Axis Units	Retired",
+    "name": "Axis Units Retired",
     "vr": "SH",
     "description": ""
   },
   "x50xx0040": {
-    "name": "Axis Labels	Retired",
+    "name": "Axis Labels Retired",
     "vr": "SH",
     "description": ""
   },
   "x50xx0103": {
-    "name": "Data Value Representation	Retired",
+    "name": "Data Value Representation Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx0104": {
-    "name": "Minimum Coordinate Value	Retired",
+    "name": "Minimum Coordinate Value Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx0105": {
-    "name": "Maximum Coordinate Value	Retired",
+    "name": "Maximum Coordinate Value Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx0106": {
-    "name": "Curve Range	Retired",
+    "name": "Curve Range Retired",
     "vr": "SH",
     "description": ""
   },
   "x50xx0110": {
-    "name": "Curve Data Descriptor	Retired",
+    "name": "Curve Data Descriptor Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx0112": {
-    "name": "Coordinate Start Value	Retired",
+    "name": "Coordinate Start Value Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx0114": {
-    "name": "Coordinate Step Value	Retired",
+    "name": "Coordinate Step Value Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx1001": {
-    "name": "Curve Activation Layer	Retired",
+    "name": "Curve Activation Layer Retired",
     "vr": "CS",
     "description": ""
   },
   "x50xx2000": {
-    "name": "Audio Type	Retired",
+    "name": "Audio Type Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx2002": {
-    "name": "Audio Sample Format	Retired",
+    "name": "Audio Sample Format Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx2004": {
-    "name": "Number of Channels	Retired",
+    "name": "Number of Channels Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx2006": {
-    "name": "Number of Samples	Retired",
+    "name": "Number of Samples Retired",
     "vr": "UL",
     "description": ""
   },
   "x50xx2008": {
-    "name": "Sample Rate	Retired",
+    "name": "Sample Rate Retired",
     "vr": "UL",
     "description": ""
   },
   "x50xx200A": {
-    "name": "Total Time	Retired",
+    "name": "Total Time Retired",
     "vr": "UL",
     "description": ""
   },
   "x50xx200C": {
-    "name": "Audio Sample Data	Retired",
+    "name": "Audio Sample Data Retired",
     "vr": "OB or OW",
     "description": ""
   },
   "x50xx200E": {
-    "name": "Audio Comments	Retired",
+    "name": "Audio Comments Retired",
     "vr": "LT",
     "description": ""
   },
   "x50xx2500": {
-    "name": "Curve Label	Retired",
+    "name": "Curve Label Retired",
     "vr": "LO",
     "description": ""
   },
   "x50xx2600": {
-    "name": "Curve Referenced Overlay Sequence	Retired",
+    "name": "Curve Referenced Overlay Sequence Retired",
     "vr": "SQ",
     "description": ""
   },
   "x50xx2610": {
-    "name": "Curve Referenced Overlay Group	Retired",
+    "name": "Curve Referenced Overlay Group Retired",
     "vr": "US",
     "description": ""
   },
   "x50xx3000": {
-    "name": "Curve Data	Retired",
+    "name": "Curve Data Retired",
     "vr": "OB or OW",
     "description": ""
   },
@@ -20305,7 +20305,7 @@
     "description": ""
   },
   "x60xx0012": {
-    "name": "Overlay Planes	Retired",
+    "name": "Overlay Planes Retired",
     "vr": "US",
     "description": ""
   },
@@ -20340,42 +20340,42 @@
     "description": ""
   },
   "x60xx0052": {
-    "name": "Overlay Plane Origin	Retired",
+    "name": "Overlay Plane Origin Retired",
     "vr": "US",
     "description": ""
   },
   "x60xx0060": {
-    "name": "Overlay Compression Code	Retired",
+    "name": "Overlay Compression Code Retired",
     "vr": "CS",
     "description": ""
   },
   "x60xx0061": {
-    "name": "Overlay Compression Originator	Retired",
+    "name": "Overlay Compression Originator Retired",
     "vr": "SH",
     "description": ""
   },
   "x60xx0062": {
-    "name": "Overlay Compression Label	Retired",
+    "name": "Overlay Compression Label Retired",
     "vr": "SH",
     "description": ""
   },
   "x60xx0063": {
-    "name": "Overlay Compression Description	Retired",
+    "name": "Overlay Compression Description Retired",
     "vr": "CS",
     "description": ""
   },
   "x60xx0066": {
-    "name": "Overlay Compression Step Pointers	Retired",
+    "name": "Overlay Compression Step Pointers Retired",
     "vr": "AT",
     "description": ""
   },
   "x60xx0068": {
-    "name": "Overlay Repeat Interval	Retired",
+    "name": "Overlay Repeat Interval Retired",
     "vr": "US",
     "description": ""
   },
   "x60xx0069": {
-    "name": "Overlay Bits Grouped	Retired",
+    "name": "Overlay Bits Grouped Retired",
     "vr": "US",
     "description": ""
   },
@@ -20390,32 +20390,32 @@
     "description": ""
   },
   "x60xx0110": {
-    "name": "Overlay Format	Retired",
+    "name": "Overlay Format Retired",
     "vr": "CS",
     "description": ""
   },
   "x60xx0200": {
-    "name": "Overlay Location	Retired",
+    "name": "Overlay Location Retired",
     "vr": "US",
     "description": ""
   },
   "x60xx0800": {
-    "name": "Overlay Code Label	Retired",
+    "name": "Overlay Code Label Retired",
     "vr": "CS",
     "description": ""
   },
   "x60xx0802": {
-    "name": "Overlay Number of Tables	Retired",
+    "name": "Overlay Number of Tables Retired",
     "vr": "US",
     "description": ""
   },
   "x60xx0803": {
-    "name": "Overlay Code Table Location	Retired",
+    "name": "Overlay Code Table Location Retired",
     "vr": "AT",
     "description": ""
   },
   "x60xx0804": {
-    "name": "Overlay Bits For Code Word	Retired",
+    "name": "Overlay Bits For Code Word Retired",
     "vr": "US",
     "description": ""
   },
@@ -20425,42 +20425,42 @@
     "description": ""
   },
   "x60xx1100": {
-    "name": "Overlay Descriptor - Gray	Retired",
+    "name": "Overlay Descriptor - Gray Retired",
     "vr": "US",
     "description": ""
   },
   "x60xx1101": {
-    "name": "Overlay Descriptor - Red	Retired",
+    "name": "Overlay Descriptor - Red Retired",
     "vr": "US",
     "description": ""
   },
   "x60xx1102": {
-    "name": "Overlay Descriptor - Green	Retired",
+    "name": "Overlay Descriptor - Green Retired",
     "vr": "US",
     "description": ""
   },
   "x60xx1103": {
-    "name": "Overlay Descriptor - Blue	Retired",
+    "name": "Overlay Descriptor - Blue Retired",
     "vr": "US",
     "description": ""
   },
   "x60xx1200": {
-    "name": "Overlays - Gray	Retired",
+    "name": "Overlays - Gray Retired",
     "vr": "US",
     "description": ""
   },
   "x60xx1201": {
-    "name": "Overlays - Red	Retired",
+    "name": "Overlays - Red Retired",
     "vr": "US",
     "description": ""
   },
   "x60xx1202": {
-    "name": "Overlays - Green	Retired",
+    "name": "Overlays - Green Retired",
     "vr": "US",
     "description": ""
   },
   "x60xx1203": {
-    "name": "Overlays - Blue	Retired",
+    "name": "Overlays - Blue Retired",
     "vr": "US",
     "description": ""
   },
@@ -20490,7 +20490,7 @@
     "description": ""
   },
   "x60xx4000": {
-    "name": "Overlay Comments	Retired",
+    "name": "Overlay Comments Retired",
     "vr": "LT",
     "description": ""
   },
@@ -20510,42 +20510,42 @@
     "description": ""
   },
   "x7FE00020": {
-    "name": "Coefficients SDVN	Retired",
+    "name": "Coefficients SDVN Retired",
     "vr": "OW",
     "description": ""
   },
   "x7FE00030": {
-    "name": "Coefficients SDHN	Retired",
+    "name": "Coefficients SDHN Retired",
     "vr": "OW",
     "description": ""
   },
   "x7FE00040": {
-    "name": "Coefficients SDDN	Retired",
+    "name": "Coefficients SDDN Retired",
     "vr": "OW",
     "description": ""
   },
   "x7Fxx0010": {
-    "name": "Variable Pixel Data	Retired",
+    "name": "Variable Pixel Data Retired",
     "vr": "OB or OW",
     "description": ""
   },
   "x7Fxx0011": {
-    "name": "Variable Next Data Group	Retired",
+    "name": "Variable Next Data Group Retired",
     "vr": "US",
     "description": ""
   },
   "x7Fxx0020": {
-    "name": "Variable Coefficients SDVN	Retired",
+    "name": "Variable Coefficients SDVN Retired",
     "vr": "OW",
     "description": ""
   },
   "x7Fxx0030": {
-    "name": "Variable Coefficients SDHN	Retired",
+    "name": "Variable Coefficients SDHN Retired",
     "vr": "OW",
     "description": ""
   },
   "x7Fxx0040": {
-    "name": "Variable Coefficients SDDN	Retired",
+    "name": "Variable Coefficients SDDN Retired",
     "vr": "OW",
     "description": ""
   },
