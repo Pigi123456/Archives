@@ -5590,7 +5590,7 @@
     "description": ""
   },
   "x00189445": {
-    "name": "",
+    "name": "Retired",
     "vr": "Retired",
     "description": ""
   },
@@ -8155,7 +8155,7 @@
     "description": ""
   },
   "x00280020": {
-    "name": "",
+    "name": "Retired",
     "vr": "Retired",
     "description": ""
   },
@@ -20560,12 +20560,12 @@
     "description": ""
   },
   "xFFFEE000": {
-    "name": "",
+    "name": "Item",
     "vr": "Item",
     "description": ""
   },
   "xFFFEE00D": {
-    "name": "",
+    "name": "Item Delimitation Item",
     "vr": "Item Delimitation Item",
     "description": ""
   },
